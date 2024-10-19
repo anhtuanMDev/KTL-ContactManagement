@@ -1,0 +1,11 @@
+Ứng dụng quản lý danh bạ : 
+Có danh bạ được quản lý có các thông tin : (name, email, phone)
+Với chú ý : email có thể trùng nhau, và phone cũng có thể trùng nhau, nhưng không thể tồn tại 2 bản ghi trùng cả email và phone.
+
+Làm ứng dụng Android thực hiện các nghiệp vụ sau : 
+- Có chức năng nhập danh bạ từ 1 file có sẵn trong hệ thống : Có UI Loading, Success.
+- Hiển thị danh sách danh bạ đã có.
+- Chức năng thêm mới danh bạ : Chú ý không thêm danh bạ nếu đã tồn tại 1 bản ghi có trùng thông tin email & phone -> Báo lỗi.
+- Chức năng xóa danh bạ.
+
+-> Dữ liệu kiểm thử sẽ 1 trong 3 file : contact_data_small.json, contact_data_medium.json, contact_data_big.json.

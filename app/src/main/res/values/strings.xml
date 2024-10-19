@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contact_Manager</string>
+    <string name="fab_contentDescription">Button to add contact from a JSON file</string>
+    <string name="listview_description">A list show your contact number (e.g Your Mom, Your Dad, Your Friend)</string>
+    <string name="dialog_title">Add Your Contact</string>
+    <string name="dialog_button_1">Add contact in small file</string>
+    <string name="dialog_button_2">Add New Contact in medium file</string>
+    <string name="dialog_button_3">Add New Contact in big file</string>
+    <string name="dialog_button_4">Add New Contact in manually</string>
+    <string name="dialog_button_1_contentDescription">Add New Contact</string>
+    <string name="dialog_button_2_contentDescription">Add New Contact By List</string>
+    <string name="dialog_success">Success</string>
+    <string name="dialog_success_subtitle">Your operation was successful.</string>
+    <string name="dialog_title_error">Error</string>
+    <string name="dialog_error_subtittle">Something went wrong.</string>
+</resources>

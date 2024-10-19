@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingVertical="15dp"
+    android:paddingHorizontal="10dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/dialog_button_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_button_1"
+        android:contentDescription="@string/dialog_button_1_contentDescription"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="8dp"
+        />
+
+    <TextView
+        android:id="@+id/dialog_button_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_button_2"
+        android:contentDescription="@string/dialog_button_2_contentDescription"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="8dp"
+        />
+
+    <TextView
+        android:id="@+id/dialog_button_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_button_3"
+        android:contentDescription="@string/dialog_button_2_contentDescription"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="8dp"
+        />
+
+    <TextView
+        android:id="@+id/dialog_button_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_button_4"
+        android:contentDescription="@string/dialog_button_2_contentDescription"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="8dp"
+        />
+
+</LinearLayout>
